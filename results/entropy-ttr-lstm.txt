@@ -1,0 +1,82 @@
+
+model: lstm10k-final
+length of sentences:20
+calculated entropy:5.216049605981267
+calculated ttr:0.21856792038683107
+
+
+model: lstm10k-final
+length of sentences:50
+calculated entropy:5.5189623939166745
+calculated ttr:0.10921714468171398
+
+
+model: lstm10k-final
+length of sentences:100
+calculated entropy:5.529026832865724
+calculated ttr:0.059400118604745054
+
+
+model: lstm10k-final
+length of sentences:200
+calculated entropy:5.257195332823627
+calculated ttr:0.031275698127158635
+
+
+
+
+model: lstm50k-final
+length of sentences:20
+calculated entropy:5.105705066598576
+calculated ttr:0.14306948079009205
+
+
+model: lstm50k-final
+length of sentences:50
+calculated entropy:5.189397293992908
+calculated ttr:0.05584462078672833
+
+
+
+model: lstm50k-final
+length of sentences:100
+calculated entropy:4.9636716491062005
+calculated ttr:0.02524849225172711
+
+
+
+model: lstm50k-final
+length of sentences:200
+calculated entropy:4.603554466613467
+calculated ttr:0.01141381789889435
+
+
+
+model: lstm150k-final
+length of sentences:20
+calculated entropy:4.194916540776577
+calculated ttr:0.24703885976340073
+
+
+
+model: lstm150k-final
+length of sentences:50
+calculated entropy:4.172916509377734
+calculated ttr:0.14328377103391363
+
+
+
+model: lstm150k-final
+length of sentences:100
+calculated entropy:4.010740815839089
+calculated ttr:0.08625216982283689
+
+
+
+
+model: lstm150k-final
+length of sentences:200
+calculated entropy:3.3765126305136652
+calculated ttr:0.049427135315877724
+
+”.

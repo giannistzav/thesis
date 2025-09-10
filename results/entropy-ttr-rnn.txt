@@ -1,0 +1,24 @@
+
+model: rnn-10k-hidden512-nl3-lr0.0001-ngram5-lessvocab 
+ length of sentences:20
+ calculated entropy: 5.247481380664439 
+ calculated ttr: 0.3071749061426721 
+
+
+model: rnn-10k-hidden512-nl3-lr0.0001-ngram5-lessvocab 
+ length of sentences:50
+ calculated entropy: 5.413497869273752 
+ calculated ttr: 0.29690520590939146 
+
+
+model: rnn-10k-hidden512-nl3-lr0.0001-ngram5-lessvocab 
+ length of sentences:100
+ calculated entropy: 5.4792234709086225 
+ calculated ttr: 0.2883178068374421
+
+
+model: rnn-10k-hidden512-nl3-lr0.0001-ngram5-lessvocab 
+ length of sentences:200
+ calculated entropy: 5.445838154907579 
+ calculated ttr: 0.29098350867203676
+
